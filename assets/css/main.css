@@ -4821,3 +4821,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
+
+.project-image {
+  height: 250px;
+}
