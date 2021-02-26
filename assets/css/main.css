@@ -4815,11 +4815,12 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   justify-content: space-evenly;
   text-align: left;
 }
-
 .main-image {
   border-radius: 40%;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  height: 40vh;
+  width: 30vw;
 }
 
 .project-image {
